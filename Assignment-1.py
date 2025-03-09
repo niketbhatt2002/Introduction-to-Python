@@ -1,7 +1,7 @@
 # Task 1 - Variables: Your First Python Intro
-name = "John Doe"  # Replace with your name or any fictional name
-age = 25  # Replace with your age
-height = 5.9  # Replace with your height in feet
+name = "Niket Bhatt"  # Replace with your name or any fictional name
+age = 22  # Replace with your age
+height = 5.4  # Replace with your height in feet
 
 # Printing the friendly introduction message
 print(f"Hey there, my name is {name}! I’m {age} years old and {height} feet tall.")
