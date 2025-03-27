@@ -1,4 +1,5 @@
 import logging
+#logging has been imported here
 
 # Set up logging to log errors into a file
 logging.basicConfig(filename="error_log.txt", level=logging.ERROR)
