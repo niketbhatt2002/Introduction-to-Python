@@ -17,7 +17,7 @@ print(f"\nMultiplication Table for {num}:")
 for i in range(1, 11):  # Loop from 1 to 10
     print(f"{num} x {i} = {num * i}")
 
-# Task 3 - Find the Factorial
+# Task 3 - Find the Factorial in easiest way.
 fact_num = int(input("\nEnter a number to find its factorial: "))
 factorial = 1  # Initializing factorial value
 
